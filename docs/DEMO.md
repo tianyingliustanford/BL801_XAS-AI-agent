@@ -31,7 +31,7 @@ even though the files were renamed with descriptive suffixes.
 
 `compare_scans({"scan_ids": ["27265", "27286", "27295"], "signal": "TFY"})`
 
-![Compare three TFY scans](demo_plot_.png)
+![Compare three TFY scans](demo_plot.png)
 
 ---
 
