@@ -3,10 +3,6 @@
 A short tour of the XAS AI Agent in action. Every result below was produced by typing a
 plain-English request into the chat — the agent chose and ran the analysis tools itself.
 
-> The screenshots reference images in this folder. Keep `DEMO.md` and the five PNGs
-> (`demo_overview.png`, `demo_plot_.png`, `demo_smoothing.png`, `demo_peaks_1.png`,
-> `demo_peaks_2.png`) together (e.g. in a `docs/` folder).
-
 ---
 
 ## 1. Ask what it can do
