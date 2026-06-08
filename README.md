@@ -66,7 +66,6 @@ Copy `.env.example` to `.env` and set **one** API key; the provider is auto-dete
 If several keys are set the order is CBORG → OpenAI → Gemini → Claude; override with
 `LLM_PROVIDER`, `LLM_MODEL`, `LLM_BASE_URL`.
 
-> **Security note:** `.env` holds a live API key and is git-ignored. Never commit it.
 
 ### Directories (optional `.env` overrides)
 
